@@ -1,5 +1,7 @@
 # Ignore password.txt
-passwords.txt
+
 
 
 pass.txt
+
+*test.txt
