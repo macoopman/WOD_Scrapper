@@ -2,7 +2,7 @@
 Set up email service for daily emailing
 """
 
-import smtplib, ssl
+import smtplib, ssl, time
 
 
 
@@ -22,6 +22,6 @@ def emailer(sender_email, sender_password, reciever, message):
 
 
 if __name__ == "__main__":
-    message = "it works"
+    message = "HI EVAN"
 
-    emailer("coopmanmike@gmail.com", , "macoopman@gmail.com", message)
+    emailer("coopmanmike@gmail.com","PX82LYv&vhG9xt$" , "macoopman@gmail.com", message)
